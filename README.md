@@ -4,13 +4,13 @@
 
 🛠️ Over the years, I've honed my skills in a variety of technologies, including:
 
-HTML
-CSS
-JavaScript
-React
-TypeScript
-Bootstrap
-Material-UI
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Bootstrap
+- Material-UI
 
 🚀 My journey began with an intensive coding bootcamp called SheCodes.io, where I learned the fundamentals of web development and established a strong foundation. Since then, I've had the privilege of working on exciting projects, where I've leveraged my skills to build responsive and visually appealing websites and web applications.
 

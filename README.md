@@ -9,12 +9,17 @@
 - JavaScript
 - React
 - TypeScript
+- Python
+- MySQL
+- Java
 - Bootstrap
 - Material-UI
 
 🚀 My journey began with an intensive coding bootcamp called SheCodes.io, where I learned the fundamentals of web development and established a strong foundation.
 
-🎯 My goal is to continue growing as a developer and contribute to innovative projects that have a real impact on users. I thrive in collaborative environments and am always eager to learn and adapt to new challenges.
+🎓 I am also pursuing my second bachelor’s degree in Computer Science with an emphasis in Software Engineering at Southern New Hampshire University. It’s been an exciting way to deepen my knowledge and sharpen my skills even further.
+
+🎯 My goal is to continue growing as a developer and contribute to projects that have a real impact on users. I thrive in collaborative environments and am always eager to learn and adapt to new challenges.
 
 🌟 Let's connect! I'm open to networking, discussing exciting job opportunities, or just chatting about the latest developments in the tech world. Feel free to reach out!
 
